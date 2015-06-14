@@ -1,3 +1,3 @@
-class Passenger {
-    String name;
+public class Passenger {
+    String fio;
 }
