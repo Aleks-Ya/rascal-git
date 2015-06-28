@@ -1,0 +1,5 @@
+/**
+ * Билет.
+ */
+public class Ticket {
+}
