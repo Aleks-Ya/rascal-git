@@ -1,5 +1,5 @@
 class Train {
     long number;
-    String name;
+    String trainName;
     TrainType type;
 }
