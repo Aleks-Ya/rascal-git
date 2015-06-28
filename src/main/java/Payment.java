@@ -1,2 +1,5 @@
+/**
+ * Платеж.
+ */
 public class Payment {
 }
